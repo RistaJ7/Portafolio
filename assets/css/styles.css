@@ -328,7 +328,7 @@ nav {
     background: var(--dark-bg2);
     border-radius: var(--border-radius);
     box-shadow: var(--shadow);
-    width: 600px;
+    width: 250px;
     padding: 1.5rem;
     text-align: center;
     display: flex;
@@ -360,7 +360,7 @@ nav {
 
 .project-card img {
     width: 100%;
-    max-width: 600px;
+    max-width: 250px;
     border-radius: 12px;
     margin-bottom: 1rem;
 }
